@@ -44,7 +44,7 @@ Goal: Understand correlation between outlet size and revenue
 Chart Used: Donut/Pie Chart
 Insight: Medium-sized outlets bring in the highest revenue
 
-6)Sales by Outlet Location
+6) Sales by Outlet Location
 Goal: Identify revenue contribution from Tier 1/2/3 cities
 Chart Used: Funnel Map
 Insight: Tier 3 cities contribute ~47% of overall sales
