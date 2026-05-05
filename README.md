@@ -16,7 +16,7 @@ Questions (KPIs):
 - Total Number of Items Sold – (8,523)
 - Average Customer Rating – (3.9)
 
--Dashboard Interaction <a href="https://github.com/pranjalagarkar/Blinkit-Analysis-Dashboard/blob/main/Blinkit%20Analysis%20Dashboard.pdf">View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/pranjalagarkar/Blinkit-Analysis-Dashboard/blob/main/Blinkit%20Analysis%20Dashboard.pdf">View Dashboard</a>
 
 Chart-wise Analysis Performed:
 1)Total Sales by Fat Content
