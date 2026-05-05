@@ -19,6 +19,7 @@ Questions (KPIs):
 Dashboard Interaction <a href="https://github.com/pranjalagarkar/Blinkit-Analysis-Dashboard/blob/main/Blinkit%20Analysis%20Dashboard.pdf">View Dashboard</a>
 
 Chart-wise Analysis Performed:
+
 1)Total Sales by Fat Content
 Goal: Identify if low-fat or regular items generate more revenue
 Chart Used: Donut Chart
