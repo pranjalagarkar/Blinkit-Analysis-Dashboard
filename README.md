@@ -54,6 +54,9 @@ Goal: Show complete performance (Sales, Items, Ratings) by outlet type
 Chart Used: Matrix Card
 Insight: Supermarket Type 1 leads in all KPIs (sales, item count, customer rating)
 
+Dashboard:
+<img width="1496" height="860" alt="Screenshot 2026-05-05 161559" src="https://github.com/user-attachments/assets/26ac136d-2baa-4ec2-8082-39a9554452f9" />
+
 Tech Stack & Skills Used:
 a)Power BI Desktop: Visualizations, Data Transformation
 b)DAX Measures: Custom KPI Calculations
