@@ -60,8 +60,11 @@ Dashboard:
 Tech Stack & Skills Used:
 
 a)Power BI Desktop: Visualizations, Data Transformation
+
 b)DAX Measures: Custom KPI Calculations
+
 c)Data Modelling: Relationships, Filtering
+
 d)Business Storytelling: Insight-based design for real-time decision making
 
 Outcome & Business Value:
