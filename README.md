@@ -2,7 +2,7 @@
  Project Overview:
 I developed an interactive Sales Analysis Dashboard for Blinkit (India's last-minute delivery app) to analyse performance across multiple retail dimensions including item categories, outlet types, geographic tiers, and consumer preferences.
 
-Dataset used
+Dataset used:
 - <a href= "https://github.com/pranjalagarkar/Blinkit-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 This dashboard helps stakeholders make data-driven decisions by providing a holistic view of:
  Sales Trends
@@ -58,6 +58,7 @@ Dashboard:
 <img width="1496" height="860" alt="Screenshot 2026-05-05 161559" src="https://github.com/user-attachments/assets/26ac136d-2baa-4ec2-8082-39a9554452f9" />
 
 Tech Stack & Skills Used:
+
 a)Power BI Desktop: Visualizations, Data Transformation
 b)DAX Measures: Custom KPI Calculations
 c)Data Modelling: Relationships, Filtering
@@ -65,8 +66,8 @@ d)Business Storytelling: Insight-based design for real-time decision making
 
 Outcome & Business Value:
 This dashboard enables Blinkit’s management to:
-  Identify high-performing outlets & item categories
-  Plan inventory by outlet size & city tier
-  Target health-conscious buyers through low-fat items
-  Enhance customer satisfaction via review analysis
-  Optimize store expansion strategy using establishment trends
+  - Identify high-performing outlets & item categories
+  - Plan inventory by outlet size & city tier
+  - Target health-conscious buyers through low-fat items
+  - Enhance customer satisfaction via review analysis
+  - Optimize store expansion strategy using establishment trends
